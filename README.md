@@ -1,11 +1,13 @@
-Hello world. I am a markdown file.
 
-This means:
+# Install
 
-1. I can have a 
+`npm install`
 
-# Title
+# Run
 
-2. I can have a 
+1.`mongod`
+2. `node app.js`
 
-## Subtitle
+or
+
+`npm run start`
